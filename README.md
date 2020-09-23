@@ -1,2 +1,1 @@
-# angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
+Nishad has created the angry birds game in VS code using inheritance and images concepts. 
